@@ -2601,9 +2601,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"aws-cdk-lib@npm:2.145.0":
-  version: 2.145.0
-  resolution: "aws-cdk-lib@npm:2.145.0"
+"aws-cdk-lib@npm:2.150.0":
+  version: 2.150.0
+  resolution: "aws-cdk-lib@npm:2.150.0"
   dependencies:
     "@aws-cdk/asset-awscli-v1": "npm:^2.2.202"
     "@aws-cdk/asset-kubectl-v20": "npm:^2.1.2"
@@ -2616,12 +2616,12 @@ __metadata:
     mime-types: "npm:^2.1.35"
     minimatch: "npm:^3.1.2"
     punycode: "npm:^2.3.1"
-    semver: "npm:^7.6.0"
+    semver: "npm:^7.6.2"
     table: "npm:^6.8.2"
     yaml: "npm:1.10.2"
   peerDependencies:
     constructs: ^10.0.0
-  checksum: 10c0/7a2eb708b9660a3baf295dc739fdbc3105059b06b06892c3b5e6df2ee07752383d73a4a3cbce04f926c8b2696dddef189b029052906a6b2f46e96fb68335d409
+  checksum: 10c0/facabdc6dc8e81a8f24daca781af3ed15d955037de96ac3185bb83401e042c54915bcd4b07d37b781cb083c18b549a6560bb2104b5425fe3e765670b03d37635
   languageName: node
   linkType: hard
 
@@ -7108,6 +7108,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"semver@npm:^7.6.2":
+  version: 7.6.3
+  resolution: "semver@npm:7.6.3"
+  bin:
+    semver: bin/semver.js
+  checksum: 10c0/88f33e148b210c153873cb08cfe1e281d518aaa9a666d4d148add6560db5cd3c582f3a08ccb91f38d5f379ead256da9931234ed122057f40bb5766e65e58adaf
+  languageName: node
+  linkType: hard
+
 "set-function-length@npm:^1.2.1":
   version: 1.2.2
   resolution: "set-function-length@npm:1.2.2"
@@ -7551,7 +7560,7 @@ __metadata:
     "@types/jest": "npm:^29.5.12"
     "@types/node": "npm:^20.14.2"
     aws-cdk: "npm:2.145.0"
-    aws-cdk-lib: "npm:2.145.0"
+    aws-cdk-lib: "npm:2.150.0"
     aws-custom-resources: "workspace:^"
     constructs: "npm:^10.0.0"
     esbuild: "npm:^0.21.5"
