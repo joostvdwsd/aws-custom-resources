@@ -2608,9 +2608,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"aws-cdk-lib@npm:2.151.0":
-  version: 2.151.0
-  resolution: "aws-cdk-lib@npm:2.151.0"
+"aws-cdk-lib@npm:2.152.0":
+  version: 2.152.0
+  resolution: "aws-cdk-lib@npm:2.152.0"
   dependencies:
     "@aws-cdk/asset-awscli-v1": "npm:^2.2.202"
     "@aws-cdk/asset-kubectl-v20": "npm:^2.1.2"
@@ -2628,7 +2628,7 @@ __metadata:
     yaml: "npm:1.10.2"
   peerDependencies:
     constructs: ^10.0.0
-  checksum: 10c0/5e5325e6f8fd02368518edc988c8c7c2ca20d81b166158b0d8e86bab16bf4c7508ca826646202870cf932e221ad403fd2e2dc172cc3bbcb8762d28ad56937ed1
+  checksum: 10c0/96f5fe99062bbbfeaab06698fe7dd7b1a78fac84725bcbcd4756c2c9754604c7618ab5cda4cb39881ffe8402626e2c35aefb6912202eb94b8b6a979d1aa1edaa
   languageName: node
   linkType: hard
 
@@ -7610,7 +7610,7 @@ __metadata:
     "@types/jest": "npm:^29.5.12"
     "@types/node": "npm:^20.14.2"
     aws-cdk: "npm:2.151.0"
-    aws-cdk-lib: "npm:2.151.0"
+    aws-cdk-lib: "npm:2.152.0"
     aws-custom-resources: "workspace:^"
     constructs: "npm:^10.0.0"
     esbuild: "npm:^0.21.5"
