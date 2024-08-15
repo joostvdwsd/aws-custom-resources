@@ -25,7 +25,7 @@
   "devDependencies": {
     "@cp-utils/constraints-config": "^0.1.2",
     "@cp-utils/eslint-config": "^0.0.7",
-    "@cp-utils/gitversion": "^0.0.49",
+    "@cp-utils/gitversion": "^0.0.50",
     "@types/jest": "^29.5.12",
     "@types/node": "^22.3.0",
     "@yarnpkg/types": "^4.0.0",
