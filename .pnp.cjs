@@ -1944,10 +1944,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/aws-lambda", [\
-      ["npm:8.10.138", {\
-        "packageLocation": "../../.yarn/berry/cache/@types-aws-lambda-npm-8.10.138-821b6cca62-10c0.zip/node_modules/@types/aws-lambda/",\
+      ["npm:8.10.143", {\
+        "packageLocation": "../../.yarn/berry/cache/@types-aws-lambda-npm-8.10.143-19e59d9444-10c0.zip/node_modules/@types/aws-lambda/",\
         "packageDependencies": [\
-          ["@types/aws-lambda", "npm:8.10.138"]\
+          ["@types/aws-lambda", "npm:8.10.143"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3849,7 +3849,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./workspaces/aws-custom-resources/",\
         "packageDependencies": [\
           ["aws-custom-resources", "workspace:workspaces/aws-custom-resources"],\
-          ["@types/aws-lambda", "npm:8.10.138"],\
+          ["@types/aws-lambda", "npm:8.10.143"],\
           ["@types/jest", "npm:29.5.12"],\
           ["@types/node", "npm:22.3.0"],\
           ["aws-lambda", "npm:1.0.7"],\
