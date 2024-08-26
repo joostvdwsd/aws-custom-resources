@@ -41,7 +41,7 @@ const RAW_RUNTIME_STATE =
           ["@cp-utils/eslint-config", "virtual:316715ce606ccd0efc609c7c6e3919a9c35b989ee16c10781c64bf0f0a6709fac85ef5fc8a4f62c12c75ae11b66c5971ccd92800e6114d6ec25e16dd80a12cbc#npm:0.0.7"],\
           ["@cp-utils/gitversion", "npm:0.0.49"],\
           ["@types/jest", "npm:29.5.12"],\
-          ["@types/node", "npm:22.3.0"],\
+          ["@types/node", "npm:22.5.0"],\
           ["@yarnpkg/types", "npm:4.0.0"],\
           ["eslint", "npm:8.57.0"],\
           ["jest", "virtual:316715ce606ccd0efc609c7c6e3919a9c35b989ee16c10781c64bf0f0a6709fac85ef5fc8a4f62c12c75ae11b66c5971ccd92800e6114d6ec25e16dd80a12cbc#npm:29.7.0"],\
@@ -2143,11 +2143,11 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:22.3.0", {\
-        "packageLocation": "../../.yarn/berry/cache/@types-node-npm-22.3.0-981d52ea96-10c0.zip/node_modules/@types/node/",\
+      ["npm:22.5.0", {\
+        "packageLocation": "../../.yarn/berry/cache/@types-node-npm-22.5.0-1eb4d725ff-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:22.3.0"],\
-          ["undici-types", "npm:6.18.2"]\
+          ["@types/node", "npm:22.5.0"],\
+          ["undici-types", "npm:6.19.8"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3851,7 +3851,7 @@ const RAW_RUNTIME_STATE =
           ["aws-custom-resources", "workspace:workspaces/aws-custom-resources"],\
           ["@types/aws-lambda", "npm:8.10.138"],\
           ["@types/jest", "npm:29.5.12"],\
-          ["@types/node", "npm:22.3.0"],\
+          ["@types/node", "npm:22.5.0"],\
           ["aws-lambda", "npm:1.0.7"],\
           ["esbuild", "npm:0.21.5"],\
           ["jest", "virtual:316715ce606ccd0efc609c7c6e3919a9c35b989ee16c10781c64bf0f0a6709fac85ef5fc8a4f62c12c75ae11b66c5971ccd92800e6114d6ec25e16dd80a12cbc#npm:29.7.0"],\
@@ -3871,7 +3871,7 @@ const RAW_RUNTIME_STATE =
           ["@cp-utils/eslint-config", "virtual:316715ce606ccd0efc609c7c6e3919a9c35b989ee16c10781c64bf0f0a6709fac85ef5fc8a4f62c12c75ae11b66c5971ccd92800e6114d6ec25e16dd80a12cbc#npm:0.0.7"],\
           ["@cp-utils/gitversion", "npm:0.0.49"],\
           ["@types/jest", "npm:29.5.12"],\
-          ["@types/node", "npm:22.3.0"],\
+          ["@types/node", "npm:22.5.0"],\
           ["@yarnpkg/types", "npm:4.0.0"],\
           ["eslint", "npm:8.57.0"],\
           ["jest", "virtual:316715ce606ccd0efc609c7c6e3919a9c35b989ee16c10781c64bf0f0a6709fac85ef5fc8a4f62c12c75ae11b66c5971ccd92800e6114d6ec25e16dd80a12cbc#npm:29.7.0"],\
@@ -9458,7 +9458,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["test", "workspace:workspaces/e2e"],\
           ["@types/jest", "npm:29.5.12"],\
-          ["@types/node", "npm:22.3.0"],\
+          ["@types/node", "npm:22.5.0"],\
           ["aws-cdk", "npm:2.151.0"],\
           ["aws-cdk-lib", "virtual:f1920ea60e25cba883b05a74591d6ade3758026dc4f08ae41f91b7dafe9ecaff145e53ad8a0cbaa21ea63dda6cbd9ecbffd90b15bd703ae68e40a151f5c338f1#npm:2.152.0"],\
           ["aws-custom-resources", "workspace:workspaces/aws-custom-resources"],\
@@ -9671,7 +9671,7 @@ const RAW_RUNTIME_STATE =
           ["@tsconfig/node12", "npm:1.0.11"],\
           ["@tsconfig/node14", "npm:1.0.3"],\
           ["@tsconfig/node16", "npm:1.0.4"],\
-          ["@types/node", "npm:22.3.0"],\
+          ["@types/node", "npm:22.5.0"],\
           ["@types/swc__core", null],\
           ["@types/swc__wasm", null],\
           ["@types/typescript", null],\
@@ -9903,10 +9903,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:6.18.2", {\
-        "packageLocation": "../../.yarn/berry/cache/undici-types-npm-6.18.2-29c349a925-10c0.zip/node_modules/undici-types/",\
+      ["npm:6.19.8", {\
+        "packageLocation": "../../.yarn/berry/cache/undici-types-npm-6.19.8-9f12285b7a-10c0.zip/node_modules/undici-types/",\
         "packageDependencies": [\
-          ["undici-types", "npm:6.18.2"]\
+          ["undici-types", "npm:6.19.8"]\
         ],\
         "linkType": "HARD"\
       }]\
